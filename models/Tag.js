@@ -13,7 +13,7 @@ Tag.init(
       autoIncrement: true
     },
     tag_name: {
-      type: DataTypes.VARCHAR(30)
+      type: DataTypes.STRING
     }
   },
   {
