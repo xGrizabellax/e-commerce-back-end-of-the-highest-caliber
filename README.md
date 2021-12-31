@@ -21,6 +21,7 @@
   A quick tutorial video of how it is installed and used:
   
 [E-Commerce Back End Tutorial Video](https://watch.screencastify.com/v/Q9rGEFcTfRKiWbMA2rhP){:target="_blank"}
+<a href="http://example.com/" target="_blank">E-Commerce Back End Tutorial Video</a>
 
 
   ## Contributing:
