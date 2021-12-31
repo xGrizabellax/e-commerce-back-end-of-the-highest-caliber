@@ -18,10 +18,8 @@
   ## Usage:
   After installing, make sure you have an API testing tool such as Insomnia or Postman installed. These will be used for all of your requests such as GET, POST, PUT, and  DELETE. Follow the correct routes for the according Models when you submit a request.
   
-  A quick tutorial video of how it is installed and used:
+  Below is a link to a quick tutorial video of how it is installed and used:
   
-[E-Commerce Back End Tutorial Video](https://watch.screencastify.com/v/Q9rGEFcTfRKiWbMA2rhP)
-
 <a href="https://watch.screencastify.com/v/Q9rGEFcTfRKiWbMA2rhP" target="_blank">E-Commerce Back End Tutorial Video</a>
 
 
