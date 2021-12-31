@@ -20,8 +20,8 @@
   
   A quick tutorial video of how it is installed and used:
   
-  [![Alternate Text]({https://user-images.githubusercontent.com/88065363/147797885-2b5cb6cb-0fe9-4305-b9a0-7d2464667b76.png})]({https://watch.screencastify.com/v/Q9rGEFcTfRKiWbMA2rhP
-} "E-Commerce Back End Tutorial")
+[![Alternate Text]({https://user-images.githubusercontent.com/88065363/147797885-2b5cb6cb-0fe9-4305-b9a0-7d2464667b76.png})]({https://watch.screencastify.com/v/Q9rGEFcTfRKiWbMA2rhP} "Link Title")
+
 
   https://watch.screencastify.com/v/Q9rGEFcTfRKiWbMA2rhP
 ![Screen Shot 2021-12-30 at 7 31 15 PM]({https://user-images.githubusercontent.com/88065363/147797885-2b5cb6cb-0fe9-4305-b9a0-7d2464667b76.png})
